@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apFS --format=comma
+ls -map | sort-d 
