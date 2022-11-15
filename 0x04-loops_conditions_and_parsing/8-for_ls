@@ -1,0 +1,6 @@
+lists files
+for i in *
+do
+    echo "$i" | cut -f 2#!/usr/bin/env bash
+    #Creating a script that - -d '-'
+done
